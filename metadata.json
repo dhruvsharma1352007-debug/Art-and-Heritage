@@ -1,0 +1,6 @@
+{
+  "name": "Art & Heritage",
+  "description": "An elegant educational guide to famous paintings and cultural heritage art for beginners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
